@@ -1,5 +1,7 @@
 # Express Example
 
+Test commit line
+
 This repository demonstrates the usage of Sequelize within an [Express](https://expressjs.com) application.
 The implemented logic is a simple task tracking tool.
 
